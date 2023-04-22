@@ -7,7 +7,7 @@ This MATLAB program Classifies a signal to one of five scopes.
 - project.mat - recorded signals from scopes.
 
 Returns:
-Classification of each scope.
+- ytest.mat - Classification of each scope.
 
 ## License
 
